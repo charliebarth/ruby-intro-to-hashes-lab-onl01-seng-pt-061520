@@ -2,4 +2,4 @@ def monopoly
 	monopoly = {}
 	monopoly[:railroads] = {:name => "Charlie"}
 end
-monopoly[:railroads]
+puts monopoly[:railroads]
