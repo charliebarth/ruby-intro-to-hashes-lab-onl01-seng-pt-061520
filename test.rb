@@ -1,5 +1,5 @@
 def monopoly
 	monopoly = {}
-	monopoly[:railroads] = "Charlie"
+	monopoly[railroads:] = "Charlie"
 end
 puts monopoly[:railroads]
