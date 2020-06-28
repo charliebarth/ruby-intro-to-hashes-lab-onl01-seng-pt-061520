@@ -1,5 +1,5 @@
 def monopoly
 	monopoly = {}
-	monopoly[:railroads] = {}
+	monopoly[:railroads] = {:name => "Charlie"}
 end
 monopoly[:railroads]
